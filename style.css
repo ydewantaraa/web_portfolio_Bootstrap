@@ -1,0 +1,26 @@
+      .navbar-brand {
+          font-weight: bold;
+      }
+
+      .header-section img {
+          border-radius: 10px;
+          width: 100%;
+          max-width: 250px;
+      }
+
+      .biodata-grid div {
+          background-color: #f1f1f1;
+          padding: 1rem;
+          border-radius: 8px;
+          margin-bottom: 1rem;
+      }
+
+      .project-card img {
+          border-radius: 8px;
+      }
+
+      footer {
+          background-color: #007bff;
+          color: white;
+          padding: 1rem;
+      }
